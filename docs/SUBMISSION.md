@@ -6,7 +6,7 @@
 - **Theme:** The Next Frontier
 - **Participant:** Solo Computer Science & Engineering Participant
 - **Location:** Bangalore, India
-- **Open Source Repository:** `https://github.com/aegisfire/aegisfire`
+- **Open Source Repository:** `https://github.com/SrinivasaKamathB/AegisFire`
 
 ---
 
