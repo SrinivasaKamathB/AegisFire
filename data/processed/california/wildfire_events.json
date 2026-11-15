@@ -1,0 +1,50 @@
+[
+  {
+    "id": "camp_fire_2018",
+    "name": "Camp Fire (Paradise 2018)",
+    "date": "2018-11-08",
+    "year": 2018,
+    "lat": 39.81,
+    "lon": -121.44,
+    "raw_modis_frp": 1420.5,
+    "raw_viirs_frp": 3890.2,
+    "harmonized_baseline_frp": 3940.0,
+    "discrepancy_resolved": "VIIRS detected 4.2x more active perimeter spots due to high-wind ember spotting; AegisFire calibrated MODIS 1km under-detection.",
+    "nisar_coherence": {
+      "radar_band": "L-Band SAR (NISAR Simulation)",
+      "penetrative_depth": "Microwave penetration mapped building structural collapse and ember shower perimeter through heavy smoke plume."
+    }
+  },
+  {
+    "id": "august_complex_2020",
+    "name": "August Complex Gigafire (2020)",
+    "date": "2020-08-17",
+    "year": 2020,
+    "lat": 39.85,
+    "lon": -122.95,
+    "raw_modis_frp": 4820.0,
+    "raw_viirs_frp": 12450.0,
+    "harmonized_baseline_frp": 12610.0,
+    "discrepancy_resolved": "Largest wildfire in California history (1M+ acres). Severe smoke attenuation skewed MODIS brightness temperature; corrected by scan-angle transfer.",
+    "nisar_coherence": {
+      "radar_band": "L-Band + S-Band Dual Frequency",
+      "penetrative_depth": "Unwrapped interferometric phase coherence tracked 400,000 hectares of forest loss beneath pyrocumulonimbus column."
+    }
+  },
+  {
+    "id": "dixie_fire_2021",
+    "name": "Dixie Fire (2021)",
+    "date": "2021-07-14",
+    "year": 2021,
+    "lat": 40.03,
+    "lon": -121.38,
+    "raw_modis_frp": 3120.0,
+    "raw_viirs_frp": 8940.0,
+    "harmonized_baseline_frp": 9015.0,
+    "discrepancy_resolved": "Extreme pyrocumulonimbus storm activity. VIIRS 375m resolved fragmented ridge burns that MODIS aggregated into saturated 1km pixels.",
+    "nisar_coherence": {
+      "radar_band": "L-Band Repeat-Pass InSAR",
+      "penetrative_depth": "Tracked burn depth and post-fire soil dielectric moisture loss across the Feather River canyon."
+    }
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "region": "california",
+  "model_name": "AegisFire HistGradientBoosting Regressor [CALIFORNIA]",
+  "overlap_period": "2012 - 2025 (13 years concurrent observation)",
+  "training_samples": 11184,
+  "r2_score": 0.8801,
+  "mae_mw": 14.08,
+  "target_variable": "VIIRS 375m Equivalent Fire Radiative Power (MW)",
+  "spatial_indexing": "Discrete Hexagonal Tessellation (3.5 km)",
+  "generated_timestamp": "2026-11-15T10:58:25.223105+00:00"
+}
